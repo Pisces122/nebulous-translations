@@ -251,7 +251,7 @@
 
     <string name="Specify_private_game_name">"Özel Oyun Adını Yazınız"</string>
     <string name="In_Game_Chat">"Oyun içi Sohbet"</string>
-    <string name="My_Status_">"Kendi Durumum:"</string>
+    <string name="My_Status_">"Durumum:"</string>
     <string name="Game_Size_">"Oyun Boyutu:"</string>
 
     <string name="Server_Restart_">"Sunucunun Yeniden Başlatılmasına Kalan Süre:"</string>
@@ -321,8 +321,8 @@
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"Tüm Nebulous Sevenlerimize Teşekkürlerimizi Sunuyoruz."</string>
     <string name="Color_Blind">"Renk Körlüğü"</string>
     <string name="Daily_Quest_Complete_">"Günlük Görevi Tamamlayın!"</string>
-    <string name="COPY_ID">"HESAP KİMLİĞİNİ KOPYALA"</string>
-    <string name="My_Account_ID">"Hesap Kimliğim"</string>
+    <string name="COPY_ID">"HESAP NUMARASINI KOPYALA"</string>
+    <string name="My_Account_ID">"Hesap Numaram"</string>
 
 
     <string name="COMPLETE">"TAMAMLANDI"</string>
@@ -431,7 +431,7 @@
     <string name="x2_XP_24_Hour">"24 Saatlik 2x XP"</string>
     <string name="x2_XP_1_Hour">"1 Saatlik 2x XP"</string>
     <string name="Cost_">"Ücret:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"Üzgünüz, bu ögeyi şu anda satın alamazsınız."</string>
+    <string name="You_cannot_purchase_this_right_now_">"Bu ögeyi şu anda satın alamazsınız."</string>
 
 
     <string name="Loading_Purchases___">"Satın Alımlar Yükleniyor…"</string>
@@ -451,10 +451,10 @@
     <string name="BIGGEST">"EN BÜYÜK"</string>
 
 
-    <string name="Copy_ID">"Kimliği Kopyala"</string>
+    <string name="Copy_ID">"Hesap Numarasını Kopyala"</string>
     <string name="View_Profile">"Profili Görüntüle"</string>
     <string name="Send_Message">"Mesaj Gönder"</string>
-    <string name="Account_ID">"Hesap Kimliği"</string>
+    <string name="Account_ID">"Hesap Numarası"</string>
     <string name="Player_Name">"Oyuncu Adı"</string>
 
     <string name="Daily_Reward">"Günlük Ödül"</string>
@@ -506,7 +506,7 @@
     <string name="Clan_Wars_Won_">"Kazanılan Klan Savaşları:"</string>
     <string name="Arenas_Won_">"Kazanılan Arenalar:"</string>
     <string name="Arena_Mode">"Arena Modu"</string>
-    <string name="Connection_Lost">"Bağlantınız Kesintiye Uğradı"</string>
+    <string name="Connection_Lost">"Bağlantınız Kesildi"</string>
 
     <string name="Present_Hoarder">"Hediye Stokçusu "</string>
     <string name="Present_Mogul">"Hediye Kralı "</string>
@@ -596,10 +596,10 @@
     <string name="Rejoin_Game">"Oyuna Yeniden Girin"</string>
     <string name="PRIZES">"ÖDÜLLER "</string>
 
-    <string name="Enable_Custom_Skin">"Özel Cildi Etkinleştirin"</string>
-    <string name="Use_Custom_Skin">"Özel Cildi Kullanın"</string>
-    <string name="custom_skin_description">"Bu özellik sizin profil resminizi veya herhangi bir dosyayı cilt olarak kullanabilmenizi sağlar. Ancak bu özellik sadece sizin gördüğünüz cildi değiştirmektedir. Diğer oyuncular sizin özel cildinizi göremeyecektir."</string>
-    <string name="CUSTOM_SKIN">"ÖZEL CİLT"</string>
+    <string name="Enable_Custom_Skin">"Özel Deseni Etkinleştirin"</string>
+    <string name="Use_Custom_Skin">"Özel Deseni Kullanın"</string>
+    <string name="custom_skin_description">"Bu özellik sizin profil resminizi veya herhangi bir dosyayı desen olarak kullanabilmenizi sağlar. Ancak bu özellik sadece sizin gördüğünüz deseni değiştirmektedir. Diğer oyuncular sizin özel cildinizi göremeyecektir."</string>
+    <string name="CUSTOM_SKIN">"ÖZEL DESEN"</string>
 
     <string name="Facebook_Profile">"Facebook Profili"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Facebook'ta oturum açmış olmanız gerekmektedir."</string>
@@ -692,7 +692,7 @@
     <string name="Collect_5_000_moons_">"5,000 Adet Ay toplayın."</string>
     <string name="Collect_10_000_moons_">"10,000 Adet Ay toplayın."</string>
     <string name="BLUETOOTH">"BLUETOOTH "</string>
-    <string name="HOST">"EV SAHİBİ"</string>
+    <string name="HOST">"SUNUCU SAHİBİ"</string>
     <string name="This_device_does_not_support_bluetooth_">"Bu cihaz, Bluetooth servisini desteklemiyor."</string>
     <string name="member_permissions">"Üye İzinleri"</string>
     <string name="edit">"DÜZENLE "</string>
@@ -721,9 +721,9 @@
     <string name="Ends">"Bitiş"</string>
     <string name="Select_Clan_Member">"Klan Üyesini Seçin"</string>
     <string name="Inappropriate_Skin">"Uygunsuz Avatar"</string>
-    <string name="Approved">"Onaylanmıştır"</string>
-    <string name="Rejected">"Reddedilmiştir"</string>
-    <string name="Refunded">"İade Edilmiştir"</string>
+    <string name="Approved">"Onaylandı"</string>
+    <string name="Rejected">"Reddedildi"</string>
+    <string name="Refunded">"İade Edildi"</string>
 
 
     <string name="contribution_warning">"Bu plazma miktarı ile katkıda bulunmak istediğinize emin misiniz? Yaptığınız katkılar sizlere geri iade edilmeyecektir."</string>
@@ -735,7 +735,7 @@
     <string name="Clan_Uploads">"Klan Yüklemeleri"</string>
     <string name="Empty">"Boş"</string>
     <string name="Select">"Seç"</string>
-    <string name="Current_Skin">"Güncel Cilt"</string>
+    <string name="Current_Skin">"Güncel Desen"</string>
     <string name="Status">"Durum"</string>
     <string name="upload_size_failure">"Dosyanın boyutu çok büyük olduğu için bu görseli yükleyemezsiniz. Lütfen farklı bir görsel deneyiniz."</string>
     <string name="CONTRIBUTE_PLASMA">"PLAZMA KATKISI YAP"</string>
@@ -743,20 +743,20 @@
     <string name="Clan_Contribution">"Klan Katkısı"</string>
     <string name="FILTER">"FİLTRE"</string>
     <string name="List_Count_">"Liste Sayısı:"</string>
-    <string name="Download_Skins">"Cilt İndir"</string>
+    <string name="Download_Skins">"Desen İndir"</string>
     <string name="ARENA_HISTORY">"ARENA TARİHİ"</string>
     <string name="WIN">"KAZANMAK"</string>
     <string name="LOSS">"KAYBETMEK"</string>
-    <string name="Other_players_can_not_see_your_skin_">"Diğer oyuncular Cildinizi (Skin) göremezler."</string>
-    <string name="Other_players_can_see_your_skin_">"Diğer oyuncular Cildinizi (Skin) görebilirler."</string>
+    <string name="Other_players_can_not_see_your_skin_">"Diğer oyuncular Deseninizi (Skin) göremezler."</string>
+    <string name="Other_players_can_see_your_skin_">"Diğer oyuncular Deseninizi (Skin) görebilirler."</string>
     <string name="LEGEND">"EFSANE"</string>
     <string name="Win_10000_Arenas">"10.000 Adet Arena oyunu kazanın."</string>
     <string name="UPLOAD_PREVIEW">"YÜKLEME ÖNİZLEMESİ"</string>
     <string name="Transparency">"Opaklık"</string>
     <string name="upload_info">"Opaklık veya basit resimler ile daha kaliteli görüntü elde edebilirsiniz."</string>
     <string name="Compression_Quality_">"Sıkıştırma Kalitesi:"</string>
-    <string name="inapproriate_info">"Uygunsuz Ciltler: Cinsel, Nefret, Kan Pıhtısı, Müstehcenlik, Şiddet, Uyuşturucu, Seks, Çıplaklık, Tam Vücut Selfie'ler, Bilinmezlik, anlaşılmayan ve değiştirilmeyen Nebulous ciltleridir."</string>
-    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Bu cildi yüklemek istediğinizden emin misiniz?"</string>
+    <string name="inapproriate_info">"Uygunsuz Desenler: Cinsel, Nefret, Kan Pıhtısı, Müstehcenlik, Şiddet, Uyuşturucu, Seks, Çıplaklık, Tam Vücut Selfie'ler, Bilinmezlik, anlaşılmayan ve değiştirilmeyen Nebulous ciltleridir."</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Bu deseni yüklemek istediğinizden emin misiniz?"</string>
     <string name="Grant_Permission">"İzin Ver"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous, tek oyunculu kaydınızı depolamak için depolama izninizi talep ediyor!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous'un, yakındaki Bluetooth cihazlarını bulabilmesi için Konum izinlerini vermeniz gerekmektedir."</string>
@@ -799,12 +799,12 @@
     <string name="Win_as_zombies_in_2_minutes_or_less_">"2 dakika veya 2 dakikadan daha az  bir zamanda zombi olarak kazanın."</string>
     <string name="Win_as_survivors_with_no_losses_">"Hayatta kalan olarak kazanın."</string>
     <string name="ZOMBIE_">"ZOMBİ!"</string>
-    <string name="SURVIVOR_">"HAYATTA KALAN!"</string>
+    <string name="SURVIVOR_">"HAYATTA KALANLAR!"</string>
     <string name="Zombies">"Zombiler"</string>
     <string name="Survivors">"Hayatta Kalanlar"</string>
     <string name="Enter_a_Tournament">"Bir Turnuvaya Girin"</string>
     <string name="Win_a_Tournament">"Bir Turnuva Kazanın"</string>
-    <string name="Tournament_Competing">"Rekabet Turnuvası"</string>
+    <string name="Tournament_Competing">"Rekabetçi Turnuva"</string>
     <string name="Tournament_Registered">"Turnuvaya Kayıt Yaptırın"</string>
     <string name="Tournament">"Turnuva"</string>
     <string name="TourneyDescription">"Turnuvada oynayabilmek için kayıt yaptırmanız gerekmektedir. Turnuva başlamadan  önce kaydınızı geri çekebilir ve kaydını geri çeker isen plazmanız iade edilecektir. En az %d kişi olunca turnuva başlar."</string>
@@ -816,7 +816,7 @@
     <string name="Registrants">"Kayıtlı Kişiler"</string>
     <string name="Round_Of">"Tur"</string>
     <string name="Next_Tournament">"Sıradaki Turnuva"</string>
-    <string name="Plasma_Won">"Plazma Kazandın."</string>
+    <string name="Plasma_Won">"Plazma Kazanıldı."</string>
     <string name="Semi_Finals">"Yarı Finaller"</string>
     <string name="Quarter_Finals">"Çeyrek Finaller"</string>
     <string name="Competing">"Oyun Devam Ediyor"</string>
@@ -836,7 +836,7 @@
     <string name="Emotes">"Emojiler"</string>
     <string name="Support">"Destek"</string>
     <string name="Already_Blocked">"Zaten Engellenmiş"</string>
-    <string name="Cannot_block_more_than_x_accounts_">"%d kadar hesap engellediniz. Daha fazla hesap engelleyemezsiniz."</string>
+    <string name="Cannot_block_more_than_x_accounts_">"%d kadar hesap engellediğinizden daha fazla hesap engelleyemezsiniz."</string>
     <string name="This_is_you_">"Bu sizsiniz."</string>
     <string name="Win_a_Paint_Game">"Bir Boya Savaşı Oyununu kazanın"</string>
     <string name="Whiteout">"Bembeyaz"</string>
@@ -875,7 +875,7 @@
     <string name="BUY_EXTRA_SPINS">"FAZLADAN ÇEVİRME SATIN ALIN"</string>
     <string name="Spins_Remaining">"Kalan Ücretsiz Çevirme Hakkınız"</string>
     <string name="One_Spin">"Bir Çevirme (1)"</string>
-    <string name="Bundle_of_Spins">"Çevirme Demeti (10)"</string>
+    <string name="Bundle_of_Spins">"Çevirme Paketi (10)"</string>
     <string name="Plethora_of_Spins">"Dolu Çevirme (50)"</string>
     <string name="SIGN_OUT_ALL_DEVICES">"BÜTÜN CİHAZLARDAN ÇIKIŞ YAP"</string>
     <string name="Tournament_Forming">"Turnuva Bilgilendirmesi"</string>
@@ -969,10 +969,10 @@ Nebulous'un Kuralları:\n
 Eğer bu kurallardan herhangi birine uymazsanız, Hesabınız Askıya Alınabilir!\n
         \n
 (Cezanın süresi, Durumun ve Sorunun Ciddiyetine bağlı olarak, birkaç saatten sonsuza kadar yasağa maruz kalabilirsiniz.)\n
-Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Moderatör" ile birlikte rapor veriniz!\n"
+Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Moderatör"e rapor ediniz!\n"
     </string>
     <string name="Blob_Chat_Bubbles">"Baloncuk Sohbet Bulutu"</string>
-    <string name="CHRISTMAS_ADVENT_SKINS">"YILBAŞI CİLTLERİ"</string>
+    <string name="CHRISTMAS_ADVENT_SKINS">"YILBAŞI DESENLERİ"</string>
     <string name="You_cannot_open_this_present_yet_">"Bu hediyeyi henüz açamazsınız!"</string>
     <string name="Open_Present">"Hediyeyi Aç"</string>
     <string name="OPEN">"AÇIK"</string>
@@ -1061,19 +1061,19 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="upload_details" translatable="true" tools:ignore="Untranslatable">
          "ÖZEL DIŞ GÖRÜNÜMLER
 
-Özel bir görünüm satın aldığınız takdirde görüntünün kalitesi düşer, ancak bu çok önemli değildir ve normaldir (Oyun esnasında oynadığınızda neredeyse hiçbir fark olmayacaktır).
+Özel bir desen satın aldığınız takdirde görüntünün kalitesi düşer, ancak bu çok önemli değildir ve normaldir (Oyun esnasında oynadığınızda neredeyse hiçbir fark olmayacaktır).
 
-İncelemede (Sarı): Cildin; yetkililer tarafından incelenmekte olduğu anlamına gelip, onaylanmasını beklemeniz gerekmektedir.
+İncelemede (Sarı): Desenin; yetkililer tarafından incelenmekte olduğu anlamına gelip, onaylanmasını beklemeniz gerekmektedir.
 
 Onaylandı (Yeşil): Görünüm, diğer tüm oyuncular tarafından görülebilir.
-Geri Ödeme Yapıldı (Turuncu): Görünümün geri ödemesini aldınız, cildiniz belirlenen standartları karşılamadığından dolayı sizlere geri ödeme yapılmıştır.  Lütfen aynı olmayan başka bir görsel seçiniz!
+Geri Ödeme Yapıldı (Turuncu): Görünümün geri ödemesini aldınız, deseninizin belirlenen standartları karşılamadığından dolayı sizlere geri ödeme yapılmıştır.  Lütfen aynı olmayan başka bir görsel seçiniz!
 
-Reddedildi (Kırmızı): Cildinizin, uygunsuz içeriğe sahip olması nedeni ile cildinizin diğer oyuncular tarafından görüntülenemeyeceği anlamına gelmekte olup, plazma sizlere iade edilmeyecektir.
+Reddedildi (Kırmızı): Deseninizin, uygunsuz içeriğe sahip olması nedeni ile deseninizin diğer oyuncular tarafından görüntülenemeyeceği anlamına gelmekte olup, plazma sizlere iade edilmeyecektir.
 
 
-ÖZEL CİLT NEDEN GERİ ÖDEME YAPILIR VEYA REDDEDİLİR?
+ÖZEL DESEN NEDEN GERİ ÖDEME YAPILIR VEYA REDDEDİLİR?
 
-Özel cildinizin ücreti geri ödenir ise,  bir daha yapmamanız önerilir, çünkü reddedilecek ve plazmanızı kaybedeceksiniz!
+Özel deseninizin ücreti geri ödenir ise,  bir daha yapmamanız önerilir, çünkü reddedilecek ve plazmanızı kaybedeceksiniz!
 
 Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; bununla bir görünüm satın alırsanız geri ödenir veya reddedilir:
 -Cinsel İçerik veya Bazı Cinsel Yönelimler
@@ -1123,11 +1123,11 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">"10 saniye boyunca Kanca Büyüsü ile çekilin."</string>
     <string name="Pack">"Paket"</string>
     <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"Çoklu Cilt, dönüşümlü olarak iki dış görünüm kullanmanıza olanak tanır. Görünümlerin ne kadar hızlı değişeceğini siz seçersiniz. 1.000. seviyeye ulaştığınızda bu özellik ücretsizdir. Eğer çoklu cildi 1.000. seviyeden önce satın alırsanız, 1.000. seviyeye ulaştığınızda plazmanızı geri alacaksınız."</string>
-    <string name="Skin_Pack">"Cilt Paketi"</string>
-    <string name="SKIN_PACK">"CİLT PAKETİ"</string>
+    <string name="Skin_Pack">"Desen Paketi"</string>
+    <string name="SKIN_PACK">"DESEN PAKETİ"</string>
     <string name="HALLOWEEN">"CADILAR BAYRAMI"</string>
     <string name="pack_info">"Bu cilt paketini satın aldıktan sonra, özel ciltleriniz cilt seçim menülerinin en üstünde görünecektir."</string>
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">"ÖZEL Ciltler, Evcil Hayvanlar, Şapkalar ve daha fazlası!"</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">"ÖZEL Desenler, Evcil Hayvanlar, Şapkalar ve daha fazlası!"</string>
     <string name="BUY_NOW_">"ŞİMDİ SATIN AL!"</string>
     <string name="already_purchased">"Sizde veya bunu hediye ettiğiniz oyuncuda bu öge zaten mevcut."</string>
     <string name="Halo_Animations">"Halka Animasyonları"</string>
